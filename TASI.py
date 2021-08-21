@@ -71,6 +71,7 @@ def TASI2(StartDate,EndDate,period):
     filename=str("TASI2")+str(".csv")
     z=period
     file = codecs.open(filename, "a", "utf-8")
+    
     for x in range (z):
 
 
