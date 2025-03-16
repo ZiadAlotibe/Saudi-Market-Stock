@@ -1,6 +1,6 @@
 
 
-###This script done by abdullah omran to scrape tadawul stock market prices , as they dont offer any api services . 
+###This script done by Ziad Alotaibi to scrape tadawul stock market prices , as they dont offer any api services . 
 ##Not responisble for any voliation of laws , 
 
 ##to use , recall stockscrapper fun , like this : 
